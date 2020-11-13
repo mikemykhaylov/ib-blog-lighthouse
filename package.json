@@ -1,0 +1,14 @@
+{
+  "name": "ib-blog-lighthouse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chrome-launcher": "^0.13.4",
+    "lighthouse": "^6.4.1",
+    "objects-to-csv": "^1.3.6"
+  }
+}
